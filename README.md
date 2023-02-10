@@ -1,2 +1,2 @@
 # lprofile_project
-Intended for Containerization.
+This project is Intended for Containerization.
